@@ -1,0 +1,12 @@
+.idea
+.cache
+.DS_Store
+.pytest_cache/
+.venv/
+Pipfile
+Pipfile.lock
+__pycache__/
+build/
+dist/
+partition.egg-info/
+partition/__pycache__
