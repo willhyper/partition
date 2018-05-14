@@ -1,4 +1,4 @@
-from partition.partition import partition
+from partition import partition
 
 
 def array_equal(this, that):
@@ -8,6 +8,7 @@ def array_equal(this, that):
             return False
 
     return True
+
 
 def test_partition():
     s = 6

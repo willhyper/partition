@@ -1,1 +1,1 @@
-from . import partition
+from .partition import partition
